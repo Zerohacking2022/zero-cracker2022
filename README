@@ -60,13 +60,13 @@ $ apt upgrade -y
 $ apt update -y
 $ pkg install git 
 $ pkg install python -y
-$ git clone https://github.com/cracker911181/Cracker-Tool
+$ git clone https://github.com/zerohacking2022/zero-cracker2022
 $ cd Cracker-Tool
 $ python cracker-main.py
 
 [+] For Install This Tool, Put The Following Commands Step by Step in Your Termux:
 
-$ git clone https://github.com/zerohacking2022/Cracker-Tool
+$ git clone https://github.com/zerohacking2022/zero-cracker2022/
 $ cd Cracker-Tool
 $ python cracker-main.py
 
@@ -78,7 +78,7 @@ $ cracker
 
 [+] You can use this one line command for installation and setting this tool:
 
-$ curl https://raw.githubusercontent.com/cracker911181/Cracker-Tool/main/crcu.py | python ; cd Cracker-Tool ; python cracker-main.py
+$ curl https://raw.githubusercontent.com/cracker911181/zero-cracker2022//main/crcu.py | python ; cd Cracker-Tool ; python cracker-main.py
 
 
 
