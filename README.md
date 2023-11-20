@@ -1,1 +1,0 @@
-# zero-cracker2022
