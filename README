@@ -64,7 +64,7 @@ $ git clone https://github.com/zerohacking2022/zero-cracker2022
 $ cd Cracker-Tool
 $ python cracker-main.py
 
-[+] For Install This Tool, Put The Following Commands Step by Step in Your Termux:
+[+] For Install This Tool, Put The Following Commands Step by Step in Your Linux:
 
 $ git clone https://github.com/zerohacking2022/zero-cracker2022/
 $ cd Cracker-Tool
