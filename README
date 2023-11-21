@@ -61,13 +61,13 @@ $ apt update -y
 $ pkg install git 
 $ pkg install python -y
 $ git clone https://github.com/zerohacking2022/zero-cracker2022
-$ cd Cracker-Tool2022
+$ cd zero-cracker2022
 $ python cracker-main.py
 
 [+] For Install This Tool, Put The Following Commands Step by Step in Your Linux:
 
 $ git clone https://github.com/zerohacking2022/zero-cracker2022/
-$ cd Cracker-Tool2022
+$ cd zero-cracker2022
 $ python cracker-main.py
 
 
